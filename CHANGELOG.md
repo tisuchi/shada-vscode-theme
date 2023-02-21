@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "shada-theme" extension will be documented in this file.
+## 0.0.2 (21-02-2023)
+- docs: Use proper readme file
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## 0.0.1 (21-02-2023)
+- Feat: Introduced "Shada Theme"
