@@ -1,4 +1,4 @@
-![](2023-02-21-13-34-18.png)
+![](https://raw.githubusercontent.com/tisuchi/shada-vscode-theme/main/2023-02-21-13-34-18.png)
 
 # Shada Theme
 A minimum light theme for VS Code.
@@ -13,7 +13,7 @@ I personally love to use this theme for my day to day basis coding.
 
 ## Preview
 
-![](2023-02-21-13-33-34.png)
+![](https://raw.githubusercontent.com/tisuchi/shada-vscode-theme/main/2023-02-21-13-33-34.png)
 
 ## Color scheme
 
